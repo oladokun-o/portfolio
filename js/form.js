@@ -25,12 +25,16 @@ $(document).ready(function () {
                 $('form').find('input,textarea,button').attr('disabled', false);
                 $('form').find('button').html('<i class="icon-check text-success"></i> Sent!');
                 setTimeout(() => {
+                    $('form').find('.msg').html('');
                     $('form').find('button').html('Send Message');    
                 }, 1500);
             } else if (data.result === 'error') {
                 $('form').find('.msg').html('<div class="alert alert-danger">An error occured, please try again later.</div>')			
                 $('form').find('input,textarea,button').attr('disabled', false);
                 $('form').find('button').html('Send Message');
+                setTimeout(() => {
+                    $('form').find('.msg').html('');
+                }, 3000);
             }
         })
     });

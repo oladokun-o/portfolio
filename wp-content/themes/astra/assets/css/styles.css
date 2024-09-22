@@ -1650,8 +1650,8 @@ blockquote.has-text-align-left {
   background-color: var(--ast-global-color-8);
 }
 :root {
-  --ast-global-color-0: #2925f4;
-  --ast-global-color-1: #2925f4;
+  --ast-global-color-0: #0D6A35;
+  --ast-global-color-1: #0D6A35;
   --ast-global-color-2: #1b1f29;
   --ast-global-color-3: #434856;
   --ast-global-color-4: #fcfcfc;
@@ -2088,7 +2088,7 @@ body.archive .ast-archive-description > *:not(:last-child) {
     .main-header-menu
     .current-menu-ancestor
     > .menu-link {
-    color: #2925f4;
+    color: #0D6A35;
   }
 }
 .ast-theme-transparent-header
@@ -3608,8 +3608,8 @@ body .elementor hr {
   }
 }
 :root {
-  --e-global-color-astglobalcolor0: #2925f4;
-  --e-global-color-astglobalcolor1: #2925f4;
+  --e-global-color-astglobalcolor0: #0D6A35;
+  --e-global-color-astglobalcolor1: #0D6A35;
   --e-global-color-astglobalcolor2: #1b1f29;
   --e-global-color-astglobalcolor3: #434856;
   --e-global-color-astglobalcolor4: #fcfcfc;

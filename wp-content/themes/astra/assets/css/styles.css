@@ -1756,14 +1756,15 @@ body.archive .ast-archive-description > *:not(:last-child) {
   .site-logo-img
   .transparent-custom-logo
   .astra-logo-svg {
-  width: 56px;
+  width: 315px !important;
+  max-width: unset !important;
 }
 .ast-theme-transparent-header
   #masthead
   .site-logo-img
   .transparent-custom-logo
   img {
-  max-width: 56px;
+  /* max-width: 56px; */
   width: 56px;
 }
 @media (max-width: 921px) {
@@ -1779,7 +1780,7 @@ body.archive .ast-archive-description > *:not(:last-child) {
     .site-logo-img
     .transparent-custom-logo
     img {
-    max-width: 48px;
+    /* max-width: 48px; */
     width: 48px;
   }
 }
@@ -5815,4 +5816,9 @@ a:where(:not(.wp-element-button)) {
   .e-con.e-parent:nth-of-type(n + 2):not(.e-lazyloaded):not(.e-no-lazyload) * {
     background-image: none !important;
   }
+}
+
+
+footer p .wp-image-20 {
+  width: 100%;
 }

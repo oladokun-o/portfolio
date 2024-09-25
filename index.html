@@ -639,13 +639,28 @@
                       data-id="79e0499"
                       data-element_type="container"
                       data-settings='{"background_background":"classic"}'
-                      style="background-image: url(/wp-content/uploads/sites/777/2021/02/business-consulting-hero-img-bg.jpg);"
+                      style="
+                        background-image: url('wp-content/uploads/sites/777/2021/02/business-consulting-hero-img-bg.jpg');
+                        position: relative;
+                      "
                     >
+                      <div
+                        style="
+                          position: absolute;
+                          top: 0;
+                          left: 0;
+                          width: 100%;
+                          height: 100%;
+                          background-color: rgba(0, 0, 0, 0.5);
+                          z-index: 10                     "
+                      ></div>
                       <div class="e-con-inner">
                         <div
                           class="elementor-element elementor-element-935f5d1 e-con-full e-flex e-con e-child"
                           data-id="935f5d1"
                           data-element_type="container"
+                          style="z-index: 97;
+                                position: relative;"
                         >
                           <div
                             class="elementor-element elementor-element-c8e5164 elementor-widget elementor-widget-heading"
@@ -700,6 +715,7 @@
                             data-id="b328bbe"
                             data-element_type="widget"
                             data-widget_type="button.default"
+                            div
                           >
                             <div class="elementor-widget-container">
                               <div class="elementor-button-wrapper">
@@ -1639,8 +1655,8 @@
                       <h2
                         class="elementor-heading-title elementor-size-default"
                       >
-                        If You Have Any Question, <br />Feel Free to Call
-                        +234 803 354 4000
+                        If You Have Any Question, <br />Feel Free to Call +234
+                        803 354 4000
                       </h2>
                     </div>
                   </div>

@@ -23,13 +23,23 @@ body {
   padding: 15px;
   margin: 0 auto;
   border: 3px solid #011627;
-  background-color: #0116276e;
-  color: white;
-  border-radius: 5px;
+  background-color: transparent;
+  border-radius: 8px;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 15px;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.skill h4 {
+  font-weight: 600;
+}
+
+.skill:hover {
+  background-color: #01162738;
+  transition: all 0.30s;
 }
 
 #page {
@@ -79,7 +89,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
   font-family: "Space Mono", Arial, serif;
   font-weight: 400;
-  margin: 0 0 20px 0;
+  /* margin: 0 0 20px 0; */
 }
 
 ::-webkit-selection {
@@ -1308,3 +1318,71 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.project-box {
+  border: 1px solid #5f5d5db9;
+  border-radius: 12px;
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* .project-box:hover img {
+  transform: scale(1.05);
+  transition: transform .30s;
+} */
+
+.project-box .img-box {
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 15px;
+  box-shadow: 0 0 5px #00000021;
+  height: 400px;
+}
+
+.project-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;;
+}
+
+.project-box article {
+  margin-top: 10px;
+}
+
+.project-box article h3 {
+  font-weight: 600;
+}
+
+.project-box article p {
+  margin-bottom: 15px;
+}
+
+.project-box .tags ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0;
+  gap: 5px;
+}
+
+.project-box ul li {
+  border: 1px solid #5f5d5db9;
+  border-radius: 50px;
+  padding: 1px 15px;
+  cursor: pointer;
+}
+
+.project-box ul li:hover {
+  background: #0116270c;
+}
+
+.project-box a {
+  text-decoration: none;
+  font-weight: bold;
+}

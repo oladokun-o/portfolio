@@ -1,0 +1,211 @@
+  <!-- <div id="fh5co-blog" class="d-none">
+        <div class="container">
+          <div class="row animate-box">
+            <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+              <h2>Post on Medium</h2>
+              <p>
+                Dignissimos asperiores vitae velit veniam totam fuga molestias
+                accusamus alias autem provident. Odit ab aliquam dolor eius.
+              </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4 col-12">
+              <div class="fh5co-blog animate-box">
+                <a
+                  href="#"
+                  class="blog-bg"
+                  style="background-image: url(images/portfolio-1.jpg)"
+                ></a>
+                <div class="blog-text">
+                  <span class="posted_on">Mar. 15th 2016</span>
+                  <h3><a href="#">Photoshoot On The Street</a></h3>
+                  <p>
+                    Far far away, behind the word mountains, far from the
+                    countries Vokalia and Consonantia, there live the blind
+                    texts.
+                  </p>
+                  <ul class="stuff">
+                    <li><i class="icon-heart2"></i>249</li>
+                    <li><i class="icon-eye2"></i>308</li>
+                    <li>
+                      <a href="#"
+                        >Read More<i class="icon-arrow-right22"></i
+                      ></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="fh5co-blog animate-box">
+                <a
+                  href="#"
+                  class="blog-bg"
+                  style="background-image: url(images/portfolio-2.jpg)"
+                ></a>
+                <div class="blog-text">
+                  <span class="posted_on">Mar. 15th 2016</span>
+                  <h3><a href="#">Surfing at Philippines</a></h3>
+                  <p>
+                    Far far away, behind the word mountains, far from the
+                    countries Vokalia and Consonantia, there live the blind
+                    texts.
+                  </p>
+                  <ul class="stuff">
+                    <li><i class="icon-heart2"></i>249</li>
+                    <li><i class="icon-eye2"></i>308</li>
+                    <li>
+                      <a href="#"
+                        >Read More<i class="icon-arrow-right22"></i
+                      ></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="fh5co-blog animate-box">
+                <a
+                  href="#"
+                  class="blog-bg"
+                  style="background-image: url(images/portfolio-3.jpg)"
+                ></a>
+                <div class="blog-text">
+                  <span class="posted_on">Mar. 15th 2016</span>
+                  <h3><a href="#">Capture Living On Uderwater</a></h3>
+                  <p>
+                    Far far away, behind the word mountains, far from the
+                    countries Vokalia and Consonantia, there live the blind
+                    texts.
+                  </p>
+                  <ul class="stuff">
+                    <li><i class="icon-heart2"></i>249</li>
+                    <li><i class="icon-eye2"></i>308</li>
+                    <li>
+                      <a href="#"
+                        >Read More<i class="icon-arrow-right22"></i
+                      ></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> -->
+
+
+      <div id="fh5co-features" class="animate-box">
+        <div class="container">
+          <div class="services-padding">
+            <div class="row">
+              <div class="col-md-12 col-md-offset-2 text-center fh5co-heading">
+                <h2>My Services</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-4 col-12 text-center">
+                <div class="feature-left col-12">
+                  <span class="icon">
+                    <i class="icon-paintbrush"></i>
+                  </span>
+                  <div class="feature-copy">
+                    <h3>Responsive Web Design</h3>
+                    <p>
+                      Dynamic changes to a website's appearance, depending on
+                      the screen size and orientation of the device being used
+                      to view it.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-12 text-center">
+                <div class="feature-left col-12">
+                  <span class="icon">
+                    <i class="icon-briefcase"></i>
+                  </span>
+                  <div class="feature-copy">
+                    <h3>Branding</h3>
+                    <p>
+                      Making every aspect of a website consistent with its
+                      brand's personality.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-12 text-center">
+                <div class="feature-left col-12">
+                  <span class="icon">
+                    <i class="icon-bargraph"></i>
+                  </span>
+                  <div class="feature-copy">
+                    <h3>Web Developent</h3>
+                    <p>Design, Review, Develop, Test and Launch!</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row justify-content-center">
+              <div class="col-md-4 col-12 text-center">
+                <div class="feature-left">
+                  <span class="icon">
+                    <i class="icon-genius"></i>
+                  </span>
+                  <div class="feature-copy">
+                    <h3>Web Hosting</h3>
+                    <p>
+                      Making a website available and functional on the internet.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 col-12 text-center">
+                <div class="feature-left">
+                  <span class="icon">
+                    <i class="icon-chat"></i>
+                  </span>
+                  <div class="feature-copy">
+                    <h3>Support</h3>
+                    <p>
+                      Regular updates to keep a website working the way it's
+                      supposed to.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-12">
+                <span class="text-white">Other services:</span>
+                <ul style="color: rgba(255, 255, 255, 0.7)">
+                  <li>Content Management System</li>
+                  <li>
+                    Shopping Cart / Online Ordering System / Online Payments
+                  </li>
+                  <li>Blog / News Management</li>
+                  <li>Booking / Reservations / Availability System</li>
+                  <li>
+                    Social Media Integration — Facebook, Twitter, Youtube,
+                    Google+, etc.
+                  </li>
+                  <li>Mobile-optimized Website</li>
+                  <li>Password-Protected Pages / Client Area</li>
+                  <li>Web Application / Business Software</li>
+                  <li>Mobile Application / iPhone App (Ionic)</li>
+                  <li>Portfolio Showcase</li>
+                  <li>Web Hosting</li>
+                  <li>Web Site Maintenance</li>
+                  <li>Map Integration</li>
+                  <li>User Interface (UI) Design</li>
+                  <li>User Experience (UX) Design</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>

@@ -620,10 +620,6 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 0;
 }
 
-.timeline-body p {
-  text-align: justify;
-}
-
 .timeline-body > p + p {
   margin-top: 5px;
 }
